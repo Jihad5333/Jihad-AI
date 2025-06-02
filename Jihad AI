@@ -1,0 +1,24 @@
+
+├── main.py
+├── requirements.txt
+├── README.md
+├── config.py
+├── dashboard/
+│   ├── __init__.py
+│   ├── routes.py
+│   └── templates/
+│       └── (جميع صفحات لوحة التحكم كما طلبت)
+├── static/
+│   └── custom.css
+├── ai/
+│   ├── __init__.py
+│   └── assistant.py
+├── api/
+│   ├── __init__.py
+│   └── endpoints.py
+├── db/
+│   ├── __init__.py
+│   └── models.py
+├── tasks/
+├── logs/
+├── actions/
